@@ -5,6 +5,10 @@
 
 
 ## Pontos de Extremidade Online Gerenciados:
+
+https://github.com/dansfisica85/DesafioDeProjeto_TrabalhandoComMachineLearningNaPraticaNoAzure_DIO/assets/118570287/9b244080-106a-452d-8914-65c44c0f0bbd
+
+
 ###### Os pontos de extremidade online gerenciados são usados para inferência em tempo real.
 ###### Eles funcionam com computadores poderosos no Azure, escalonando de maneira gerenciada.
 ###### Esses pontos de extremidade cuidam da infraestrutura subjacente, incluindo segurança, monitoramento e escalabilidade.
