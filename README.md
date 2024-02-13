@@ -31,3 +31,9 @@ https://github.com/dansfisica85/DesafioDeProjeto_TrabalhandoComMachineLearningNa
 [eager_book_957v62cq---IA-do-Azure-Estúdio-de-Aprendizado-de-Máquina.webm](https://github.com/dansfisica85/DesafioDeProjeto_TrabalhandoComMachineLearningNaPraticaNoAzure_DIO/assets/118570287/b0e5a1ea-6e09-4856-866c-46ed5740ccf9)
 
 
+
+
+https://github.com/dansfisica85/DesafioDeProjeto_TrabalhandoComMachineLearningNaPraticaNoAzure_DIO/assets/118570287/a86616f9-ca15-493d-8509-1cb10a9be353
+
+
+
